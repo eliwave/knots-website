@@ -1,0 +1,406 @@
+body{
+	font-family: 'gargle ex rg';
+	font-size: 1.9em;
+	background: url('img/imgHome/sfondo.png');
+	background-repeat: no-repeat;
+    background-size:cover;
+}
+
+@font-face{
+	font-family: 'gargle ex rg';
+	src: url('font/gargle ex rg.ttf');
+}
+
+@font-face{
+	font-family: 'Majoram_Bold';
+	src: url('font/Majoram_Bold.ttf');
+}
+
+@font-face{ 
+	font-family: 'Dosis', sans-serif;
+	src:url('http://fonts.googleapis.com/css?family=Dosis:700,500');
+}
+
+/* inizio Menu fisso */
+
+#menuH{
+	width: 800px;
+	height: 150px;
+	border: 2.5px solid #7FFFD4;
+	border-radius: 19px;
+	background:  	#E0FFFF;
+	text-align: center;
+	margin-bottom: 20px;
+	position: absolute;
+	top: 0px;
+	z-index: 2;
+	-moz-box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+	box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+}
+
+#menuH ul{
+	display: inline;
+}
+
+#menuH ul:first-child{
+	float: left;
+}
+
+#menuH ul:last-child{
+	float: right;
+	margin-right: 40px;
+	margin-left: -40px;
+}
+
+#menuH ul li{
+	list-style: none;
+}
+
+#menuH ul li a{
+	text-decoration: none;
+	color: #000;
+}
+
+#menuH ul li a:hover{
+	text-decoration: underline;
+	color: #222;
+}
+
+.interazione{
+	cursor:pointer;
+}
+
+h1{
+	font-size: 1.8em;
+    font-family: 'Majoram_Bold';
+	display: inline-block;
+	margin-top:30px;
+	text-shadow: 2px  2px 4px #777,
+                -2px -2px 4px #777;
+}
+
+/* fine Menu fisso*/
+
+#content{
+	z-index: 2;
+	width: 55%;
+	height: 80%;
+	margin-top: 10%;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* inizio Pagina Index */
+
+#home1{
+	/* display: ;*/
+	width: 100%;
+	height: 120%;
+	margin-top: 23%;
+	margin-bottom: 5%;
+	position:relative;
+}
+
+#corda{
+	width:100%;
+	height: 100%;
+	border: 7px solid #FF8C00;
+	border-radius: 30px;
+	max-width: 100%;
+	display: block;
+	box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+}
+
+/* fine Pagina Index */
+
+/* inizio Pagina Tutorial*/
+
+/*Categorie*/
+
+#menu{
+	clear:both;
+	width: 100%;
+	height: 140%;
+	min-height: 400px;
+	margin-top: 180px;
+    border-radius: 10px;
+   -moz-border-radius: 10px; /* firefox */
+   -webkit-border-radius: 10px; /* safari, chrome */
+}
+
+.caption {
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    float: left;
+    position: relative;
+    overflow: hidden;
+    cursor:pointer
+}
+ 
+.caption img {
+	width: 190px;
+	height: 190px;
+	left: 900px;
+    background: #fff;
+	border: 2.5px solid  #FFFF00;
+	margin:3px; 
+    border-radius: 19px;
+    -moz-box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+	box-shadow: 0 2px 8px rgba(0,0,0,0.5);   
+}
+
+.caption span {
+    float: left;
+
+    padding: 10px;
+    width: 90%;
+    color: #dedede;
+     
+    background: #222; /* browser che non supportano rgba */
+    background: rgba(0,0,0,0.7);
+    position: absolute;
+    left: 0;
+    bottom: 0;  
+    border-radius: 19px 19px 19px 19px;
+}
+
+/* fine Categorie*/
+
+.nodi{
+	display:inline-block;
+	width: 130px;
+	height: 130px;
+	padding: 30px;
+	background: url('img/imgSito/fff.png');
+	background-size: cover;
+	cursor: pointer;
+}
+
+
+#container{
+	width: 100%;
+	margin-left: 10px;
+	margin-bottom: 0px; 
+}
+
+#container p{
+	margin-top: 240px;
+	margin-bottom: 70px;
+}
+
+
+#difficolta{	
+	width: 100%;
+	height: 100%;
+    margin-top: -4px;
+	font-size: 0.9em;
+	margin-bottom: 80px; 
+}
+
+#difficolta p{
+	margin-top: 280px;
+
+}
+
+#diff{
+	display:block;
+ 	width: 360px;
+ 	margin-top: 5px;
+ 	cursor: pointer;
+}
+
+#imgbarra1{
+	left: 0%;
+	margin-top: -5px;
+}
+
+#imgbarra2{
+	display: inline;
+	margin-left: 110px;
+	margin-top: -2px;
+}
+
+#imgbarra3{
+	display: inline;
+	margin-left: 120px;
+	margin-top: -20px;
+}
+
+#reset{
+	cursor: pointer;
+}
+
+#datiNodo{
+	display: none;
+	width: 60%;
+	height: 90%;
+	top: 5%;
+	margin-left:-2%;
+	border: 2px solid green;
+	border-radius: 19px;
+	background-color: 	#F5FFFA;
+	z-index: 35;
+	position: fixed;
+	overflow-y:auto;
+	color:#535377;
+}
+
+#info{
+	float:left;
+	padding-left:20px;
+	font-size: 0.6em;
+	text-align: justify;
+	margin-top:20px;
+}
+
+#info p{
+	margin-top: 10px;
+	margin-right: 40px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#info p.nome{
+	font-size: 2em;
+	color: #535377;
+}
+
+#avanti.interazionee{
+	margin-top: 150px;
+	margin-left: 590px;
+	margin-bottom: 900px;
+	position: absolute;
+	-moz-box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+	box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+	border-radius: 10px;
+	border: 1px solid #000;
+	cursor: pointer;
+}
+
+#indietro.interazionee{
+	margin-top: 150px;
+	margin-left: 200px;
+	margin-bottom: 900px;
+	position: absolute;
+	-moz-box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+	box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+	border-radius: 10px;
+	border: 1px solid #000;
+	cursor: pointer;
+}
+
+.nodoAnim{
+	height:200px;
+	margin-left:250px;
+}
+
+#chiudi{
+	width: 30px;
+	height: 30px;
+	color: #fff;
+	background: #ff0000;
+	float: right;
+	border: 1px solid #ffcc00;
+	margin-top: 5px;
+	margin-right: 5px;
+	cursor: pointer;
+	border-radius: 19px;
+	border: 3px solid #fff;
+}
+
+#x{
+	display: inline-block;
+	margin-left: 6px;
+	margin-top: 0.5px;
+}
+
+/* fine Pagina Tutorial*/
+
+/* inizio Pagina Curiosità*/
+
+#divCuriosita{
+    margin-top: 190px;
+    margin-bottom: 30px;
+	font-size: 0.5em;
+	text-align: justify;
+	height: 760px;
+	background: #F0FFFF;
+	border-radius: 19px;
+	border: 4px solid #7FFFD4;
+}
+
+#divCuriosita li{
+	margin-top: 15px;
+}
+
+#divCuriosita ul{
+	margin-top: 50px;
+	margin-right: 40px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+/* fine Pagina Curiosità*/
+
+/* inizio Pagina About*/
+
+#divAbout{
+    width: 700px;
+    height: 500px;
+	margin-left:40px;
+    font-size: 15px;
+    margin-top: 190px;
+    margin-bottom: 30px;
+	text-align: justify;
+}
+
+#divAbout p{
+ 	margin-top: 10px;
+ 	margin-right: 10px;
+ 	margin-left: 10px;
+	margin-bottom: 10px; 
+ }
+ 
+#validator{
+	margin-top: 2%;
+	margin-left: 40%;
+}
+
+#fotomia{
+	border-radius: 19px;
+	margin-left: 32%;
+	max-width: 1018px;
+	border: 3px solid #7FFFD4;
+	width: 38%;
+}
+
+/* fine Pagina About*/
+
+/* inizio Footer */
+
+#footer{
+	width: 790px;
+	font-size: 0.7em;
+	background: #fff;
+	border-radius: 19px;
+	border: 2.5px solid #7FFFD4;
+	padding: 5px;
+	-moz-box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+	box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+	background-color: #E0FFFF;
+}
+
+#footer span{
+	padding: 15px;
+}
+
+/* fine Footer */

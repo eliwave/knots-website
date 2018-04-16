@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+ <nodi>
+ 	<nodo>
+ 		<nome>Gassa d&apos;amante</nome>
+		<difficolta>media</difficolta>
+		<descrizione>La struttura della gassa d'amante è identica a quella del nodo bandiera, ma con un'estremità connessa con il corrente di una delle linee. Se si prende una gassa d'amante e si taglia l'occhiello si ottiene un nodo bandiera. Avendo un nodo base così forte al suo interno, la gassa d'amante risulta essere così resistente.</descrizione>
+		<curiosita>Questo tipo di nodo può essere eseguito su qualsiasi tipo di cima o corda. Benché sia conosciuta anche come "il nodo che non slitta mai", può presentare qualche problema con le cime elastiche in caso di cicli di carico e scarico a bassa tensione. Pregio principale di questo nodo è di non essere scorsoio, ma allo stesso tempo non si stringe mai troppo, e nonostante sia generalmente molto sicuro, può essere sciolto facilmente, anche quando la corda è bagnata.</curiosita>
+		<immagine>gassadamante</immagine>
+		<fotogrammi>9</fotogrammi>
+		<categoria>Alpinismo</categoria>
+	</nodo>
+ 	<nodo>
+ 		<nome>Gassa d&apos;amante</nome>
+		<difficolta>media</difficolta>
+		<descrizione>La struttura della gassa d'amante è identica a quella del nodo bandiera, ma con un'estremità connessa con il corrente di una delle linee. Se si prende una gassa d'amante e si taglia l'occhiello si ottiene un nodo bandiera. Avendo un nodo base così forte al suo interno, la gassa d'amante risulta essere così resistente.</descrizione>
+		<curiosita>Questo tipo di nodo può essere eseguito su qualsiasi tipo di cima o corda. Benché sia conosciuta anche come "il nodo che non slitta mai", può presentare qualche problema con le cime elastiche in caso di cicli di carico e scarico a bassa tensione. Pregio principale di questo nodo è di non essere scorsoio, ma allo stesso tempo non si stringe mai troppo, e nonostante sia generalmente molto sicuro, può essere sciolto facilmente, anche quando la corda è bagnata.</curiosita>
+		<immagine>gassadamante</immagine>
+		<fotogrammi>9</fotogrammi>
+		<categoria>Nautica</categoria>
+	</nodo>
+ 	<nodo>
+ 		<nome>Gassa d&apos;amante</nome>
+		<difficolta>media</difficolta>
+		<descrizione>La struttura della gassa d'amante è identica a quella del nodo bandiera, ma con un'estremità connessa con il corrente di una delle linee. Se si prende una gassa d'amante e si taglia l'occhiello si ottiene un nodo bandiera. Avendo un nodo base così forte al suo interno, la gassa d'amante risulta essere così resistente.</descrizione>
+		<curiosita>Questo tipo di nodo può essere eseguito su qualsiasi tipo di cima o corda. Benché sia conosciuta anche come "il nodo che non slitta mai", può presentare qualche problema con le cime elastiche in caso di cicli di carico e scarico a bassa tensione. Pregio principale di questo nodo è di non essere scorsoio, ma allo stesso tempo non si stringe mai troppo, e nonostante sia generalmente molto sicuro, può essere sciolto facilmente, anche quando la corda è bagnata.</curiosita>
+		<immagine>gassadamante</immagine>
+		<fotogrammi>9</fotogrammi>
+		<categoria>Soccorso</categoria>
+	</nodo>
+ 	<nodo>
+ 		<nome>Nodo a otto</nome>
+		<difficolta>media</difficolta>
+		<descrizione> Il nodo a otto nasce come nodo di arresto, cioè per evitare che una cima scorra via tutta sfilandosi dal suo bozzello. E' un modo semplice e rapido per realizzare un cappio che non deve entrare in un anello, per esempio per agganciarsi a un moschettone.</descrizione>
+		<curiosita>Può sostituire la gassa d'amante quandi si devono fare dei cappi dentro un anello. Si fa un nodo a otto lasco a circa un metro dalla fine del corrente e poi si rtorna indietro nel nodo inseguendo l'otto a ritroso. Il cappio a otto è sicuro e facile da farsi. Viene anche detto nodo delle guide con frizione, o ancora nodo Savoia. Come tutti i nodi per l'imbrago deve essere eseguito il più vicino possibile all'imbrago stesso per evitare che l'asola si incastri nella roccia e per poter rimanere il più possibile vicino alla roccia quando ci fermiamo su di un rinvio; cosa non possibile se il nodo è a 40 cm dall'imbragatura.</curiosita>
+		<immagine>nodoaotto</immagine>
+		<fotogrammi>7</fotogrammi>
+		<categoria>Alpinismo</categoria>
+	</nodo>
+	<nodo>
+ 		<nome>Nodo a otto</nome>
+		<difficolta>media</difficolta>
+		<descrizione> Il nodo a otto nasce come nodo di arresto, cioè per evitare che una cima scorra via tutta sfilandosi dal suo bozzello. E' un modo semplice e rapido per realizzare un cappio che non deve entrare in un anello, per esempio per agganciarsi a un moschettone.</descrizione>
+		<curiosita>Può sostituire la gassa d'amante quandi si devono fare dei cappi dentro un anello. Si fa un nodo a otto lasco a circa un metro dalla fine del corrente e poi si rtorna indietro nel nodo inseguendo l'otto a ritroso. Il cappio a otto è sicuro e facile da farsi. Viene anche detto nodo delle guide con frizione, o ancora nodo Savoia. Come tutti i nodi per l'imbrago deve essere eseguito il più vicino possibile all'imbrago stesso per evitare che l'asola si incastri nella roccia e per poter rimanere il più possibile vicino alla roccia quando ci fermiamo su di un rinvio; cosa non possibile se il nodo è a 40 cm dall'imbragatura.</curiosita>
+		<immagine>nodoaotto</immagine>
+		<fotogrammi>7</fotogrammi>
+		<categoria>Nautica</categoria>
+	</nodo>
+	<nodo>
+ 		<nome>Nodo a otto</nome>
+		<difficolta>media</difficolta>
+		<descrizione> Il nodo a otto nasce come nodo di arresto, cioè per evitare che una cima scorra via tutta sfilandosi dal suo bozzello. E' un modo semplice e rapido per realizzare un cappio che non deve entrare in un anello, per esempio per agganciarsi a un moschettone.</descrizione>
+		<curiosita>Può sostituire la gassa d'amante quandi si devono fare dei cappi dentro un anello. Si fa un nodo a otto lasco a circa un metro dalla fine del corrente e poi si rtorna indietro nel nodo inseguendo l'otto a ritroso. Il cappio a otto è sicuro e facile da farsi. Viene anche detto nodo delle guide con frizione, o ancora nodo Savoia. Come tutti i nodi per l'imbrago deve essere eseguito il più vicino possibile all'imbrago stesso per evitare che l'asola si incastri nella roccia e per poter rimanere il più possibile vicino alla roccia quando ci fermiamo su di un rinvio; cosa non possibile se il nodo è a 40 cm dall'imbragatura.</curiosita>
+		<immagine>nodoaotto</immagine>
+		<fotogrammi>7</fotogrammi>
+		<categoria>Scouting</categoria>
+	</nodo>
+ 	<nodo>
+ 		<nome>Nodo semplice</nome>
+		<difficolta>facile</difficolta>
+		<descrizione>Il nodo semplice, come dice il nome, è uno dei più facili nodi da imparare e più veloce da realizzare. Appartiene alla tipologia di nodi d'arresto e costituisce la base da cui partire per la costruzione di nodi più complessi</descrizione>
+		<curiosita>Con lo stesso nome ci si riferisce anche ad un nodo della cravatta (detto in inglese "four in hand"), il quale ha una modalità di esecuzione differente dal nodo semplice utilizzato in marineria. In marineria, il nodo semplice (così come gli altri nodi d'arresto) viene utilizzato durante le manovre dell'imbarcazione. Viene disposto nelle funi di salvataggio a intervalli regolari, allo scopo di favorire l'arrampicata. In arrampicata e alpinismo vengono utilizzate molte evoluzioni del nodo semplice, che hanno lo scopo di legare le corde, per esempio il nodo semplice copiato (o nodo fettuccia), il nodo inglese l'otto inseguito o il nodo galleggiante. </curiosita>
+		<immagine>nodosemplice</immagine>
+		<fotogrammi>5</fotogrammi>
+		<categoria>Alpinismo</categoria>
+	</nodo>
+	<nodo>
+ 		<nome>Nodo semplice</nome>
+		<difficolta>facile</difficolta>
+		<descrizione>Il nodo semplice, come dice il nome, è uno dei più facili nodi da imparare e più veloce da realizzare. Appartiene alla tipologia di nodi d'arresto e costituisce la base da cui partire per la costruzione di nodi più complessi</descrizione>
+		<curiosita>Con lo stesso nome ci si riferisce anche ad un nodo della cravatta (detto in inglese "four in hand"), il quale ha una modalità di esecuzione differente dal nodo semplice utilizzato in marineria. In marineria, il nodo semplice (così come gli altri nodi d'arresto) viene utilizzato durante le manovre dell'imbarcazione. Viene disposto nelle funi di salvataggio a intervalli regolari, allo scopo di favorire l'arrampicata. In arrampicata e alpinismo vengono utilizzate molte evoluzioni del nodo semplice, che hanno lo scopo di legare le corde, per esempio il nodo semplice copiato (o nodo fettuccia), il nodo inglese l'otto inseguito o il nodo galleggiante. </curiosita>
+		<immagine>nodosemplice</immagine>
+		<fotogrammi>5</fotogrammi>
+		<categoria>Nautica</categoria>
+	</nodo>
+	<nodo>
+ 		<nome>Nodo semplice</nome>
+		<difficolta>facile</difficolta>
+		<descrizione>Il nodo semplice, come dice il nome, è uno dei più facili nodi da imparare e più veloce da realizzare. Appartiene alla tipologia di nodi d'arresto e costituisce la base da cui partire per la costruzione di nodi più complessi</descrizione>
+		<curiosita>Con lo stesso nome ci si riferisce anche ad un nodo della cravatta (detto in inglese "four in hand"), il quale ha una modalità di esecuzione differente dal nodo semplice utilizzato in marineria. In marineria, il nodo semplice (così come gli altri nodi d'arresto) viene utilizzato durante le manovre dell'imbarcazione. Viene disposto nelle funi di salvataggio a intervalli regolari, allo scopo di favorire l'arrampicata. In arrampicata e alpinismo vengono utilizzate molte evoluzioni del nodo semplice, che hanno lo scopo di legare le corde, per esempio il nodo semplice copiato (o nodo fettuccia), il nodo inglese l'otto inseguito o il nodo galleggiante. </curiosita>
+		<immagine>nodosemplice</immagine>
+		<fotogrammi>5</fotogrammi>
+		<categoria>Soccorso</categoria>
+	</nodo>
+	<nodo>
+ 		<nome>Nodo semplice</nome>
+		<difficolta>facile</difficolta>
+		<descrizione>Il nodo semplice, come dice il nome, è uno dei più facili nodi da imparare e più veloce da realizzare. Appartiene alla tipologia di nodi d'arresto e costituisce la base da cui partire per la costruzione di nodi più complessi</descrizione>
+		<curiosita>Con lo stesso nome ci si riferisce anche ad un nodo della cravatta (detto in inglese "four in hand"), il quale ha una modalità di esecuzione differente dal nodo semplice utilizzato in marineria. In marineria, il nodo semplice (così come gli altri nodi d'arresto) viene utilizzato durante le manovre dell'imbarcazione. Viene disposto nelle funi di salvataggio a intervalli regolari, allo scopo di favorire l'arrampicata. In arrampicata e alpinismo vengono utilizzate molte evoluzioni del nodo semplice, che hanno lo scopo di legare le corde, per esempio il nodo semplice copiato (o nodo fettuccia), il nodo inglese l'otto inseguito o il nodo galleggiante. </curiosita>
+		<immagine>nodosemplice</immagine>
+		<fotogrammi>5</fotogrammi>
+		<categoria>Scouting</categoria>
+	</nodo>
+ 	<nodo>
+ 		<nome>Nodo scorsoio</nome>
+		<difficolta>facile</difficolta>
+		<descrizione>Un nodo scorsoio è un nodo che si presenta con un occhiello scorrevole che ha la caratteristica di serrarsi in risposta della tensione della corda. Si crea annodando un capo di una corda sulla corda stessa, e si serra tirando l'estremità libera mentre nell'occhiello è inserito l'oggetto che si vuole fermare. La caratteristica del nodo scorsoio di serrare l'occhiello in risposta alla tensione della corda lo ha tragicamente associato allo strozzamento che questo nodo produce a causa del peso di chi abbia il collo inserito nell'occhiello, rendendolo un simbolo e uno strumento del suicidio e della pena capitale, e praticamente annullandone l'associazione mentale all'uso marinaresco o pratico originario.</descrizione>
+		<curiosita>E' raramente usato nella nautica, mentre è utilizzato spesso a terra dai campeggiatori e dai bracconieri, che lo usano per catturare animali; il nodo scorsoio semplice serve anche per mettere in forza funi utilizzate come paranchi. Esso si esegue su cavi di piccolo diametro come spaghi e crini di cavallo.</curiosita>
+		<immagine>nodoscorsoio</immagine>
+		<fotogrammi>11</fotogrammi>
+		<categoria>Soccorso</categoria>
+	</nodo>
+ 	<nodo>
+ 		<nome>Nodo scorsoio</nome>
+		<difficolta>facile</difficolta>
+		<descrizione>Un nodo scorsoio è un nodo che si presenta con un occhiello scorrevole che ha la caratteristica di serrarsi in risposta della tensione della corda. Si crea annodando un capo di una corda sulla corda stessa, e si serra tirando l'estremità libera mentre nell'occhiello è inserito l'oggetto che si vuole fermare. La caratteristica del nodo scorsoio di serrare l'occhiello in risposta alla tensione della corda lo ha tragicamente associato allo strozzamento che questo nodo produce a causa del peso di chi abbia il collo inserito nell'occhiello, rendendolo un simbolo e uno strumento del suicidio e della pena capitale, e praticamente annullandone l'associazione mentale all'uso marinaresco o pratico originario.</descrizione>
+		<curiosita>E' raramente usato nella nautica, mentre è utilizzato spesso a terra dai campeggiatori e dai bracconieri, che lo usano per catturare animali; il nodo scorsoio semplice serve anche per mettere in forza funi utilizzate come paranchi. Esso si esegue su cavi di piccolo diametro come spaghi e crini di cavallo.</curiosita>
+		<immagine>nodoscorsoio</immagine>
+		<fotogrammi>11</fotogrammi>
+		<categoria>Nautica</categoria>
+	</nodo>
+	<nodo>
+ 		<nome>Nodo scorsoio</nome>
+		<difficolta>facile</difficolta>
+		<descrizione>Un nodo scorsoio è un nodo che si presenta con un occhiello scorrevole che ha la caratteristica di serrarsi in risposta della tensione della corda. Si crea annodando un capo di una corda sulla corda stessa, e si serra tirando l'estremità libera mentre nell'occhiello è inserito l'oggetto che si vuole fermare. La caratteristica del nodo scorsoio di serrare l'occhiello in risposta alla tensione della corda lo ha tragicamente associato allo strozzamento che questo nodo produce a causa del peso di chi abbia il collo inserito nell'occhiello, rendendolo un simbolo e uno strumento del suicidio e della pena capitale, e praticamente annullandone l'associazione mentale all'uso marinaresco o pratico originario.</descrizione>
+		<curiosita>E' raramente usato nella nautica, mentre è utilizzato spesso a terra dai campeggiatori e dai bracconieri, che lo usano per catturare animali; il nodo scorsoio semplice serve anche per mettere in forza funi utilizzate come paranchi. Esso si esegue su cavi di piccolo diametro come spaghi e crini di cavallo.</curiosita>
+		<immagine>nodoscorsoio</immagine>
+		<fotogrammi>11</fotogrammi>
+		<categoria>Alpinismo</categoria>
+	</nodo>
+ 	<nodo>
+ 		<nome>Nodo galera</nome>
+		<difficolta>facile</difficolta>
+		<descrizione>Il nodo galera è un nodo scorrevole. Molto usato nella nautica per bloccare una cima in modo veloce ma temporaneo</descrizione>
+		<curiosita>Nello scouting viene usato per fissare bastoni o picchetti ad una corda (ad es. per costruire una scala di corda con pioli di legno). Nel caso lo si utilizzi per una scala, bisogna fare molta attenzione al verso del nodo, questo perché il nodo essendo scorrevole, in un verso si serra e nell'altro si allenta, cosa molto spiacevole se state salendo la scaletta.</curiosita>
+		<immagine>nodogalera</immagine>
+		<fotogrammi>11</fotogrammi>
+		<categoria>Scouting</categoria>
+	</nodo>
+ 	<nodo>
+ 		<nome>Nodo galera</nome>
+		<difficolta>facile</difficolta>
+		<descrizione>Il nodo galera è un nodo scorrevole. Molto usato nella nautica per bloccare una cima in modo veloce ma temporaneo</descrizione>
+		<curiosita>Nello scouting viene usato per fissare bastoni o picchetti ad una corda (ad es. per costruire una scala di corda con pioli di legno). Nel caso lo si utilizzi per una scala, bisogna fare molta attenzione al verso del nodo, questo perché il nodo essendo scorrevole, in un verso si serra e nell'altro si allenta, cosa molto spiacevole se state salendo la scaletta.</curiosita>
+		<immagine>nodogalera</immagine>
+		<fotogrammi>11</fotogrammi>
+		<categoria>Nautica</categoria>
+	</nodo>
+ 	<nodo>
+ 		<nome>Nodo piano</nome>
+		<difficolta>media</difficolta>
+		<descrizione>Il nodo piano è uno dei più comuni e semplici nodi di giunzione. È usato generalmente per unire due corde di uguali dimensioni.</descrizione>
+		<curiosita>Al nodo piano è riservato un posto di primo piano in tutti i manuali di tecnica italiani, mentre su moltissimi testi stranieri non viene nemmeno più inserito tra i nodi di giunzione, ma lo si relega alla confezione di pacchi, pacchetti e altri usi simili o solo ornamentali. Per le sue caratteristiche esso dovrebbe essere usato solo come nodo di avvolgimento, ossia per fissare una corda ad un oggetto o per stringere un oggetto con una corda. E’ ottimo per finire le legature e per la sua semplicità si presta ad essere insegnato fra i primi nodi a cuccioli e novizi. Come nodo di congiunzione ha per valide alternative il nodo a rete e il nodo del pescatore (semplice o doppio). Dunque: usiamo pure il nodo piano, ma “con giudizio”.</curiosita>
+		<immagine>nodopiano</immagine>
+		<fotogrammi>10</fotogrammi>
+		<categoria>Nautica</categoria>
+	</nodo>
+ 	<nodo>
+ 		<nome>Nodo piano</nome>
+		<difficolta>media</difficolta>
+		<descrizione>Il nodo piano è uno dei più comuni e semplici nodi di giunzione. È usato generalmente per unire due corde di uguali dimensioni.</descrizione>
+		<curiosita>Al nodo piano è riservato un posto di primo piano in tutti i manuali di tecnica italiani, mentre su moltissimi testi stranieri non viene nemmeno più inserito tra i nodi di giunzione, ma lo si relega alla confezione di pacchi, pacchetti e altri usi simili o solo ornamentali. Per le sue caratteristiche esso dovrebbe essere usato solo come nodo di avvolgimento, ossia per fissare una corda ad un oggetto o per stringere un oggetto con una corda. E’ ottimo per finire le legature e per la sua semplicità si presta ad essere insegnato fra i primi nodi a cuccioli e novizi. Come nodo di congiunzione ha per valide alternative il nodo a rete e il nodo del pescatore (semplice o doppio). Dunque: usiamo pure il nodo piano, ma “con giudizio”.</curiosita>
+		<immagine>nodopiano</immagine>
+		<fotogrammi>10</fotogrammi>
+		<categoria>Scouting</categoria>
+	</nodo>
+ 	<nodo>
+ 		<nome>Nodo piano</nome>
+		<difficolta>media</difficolta>
+		<descrizione>Il nodo piano è uno dei più comuni e semplici nodi di giunzione. È usato generalmente per unire due corde di uguali dimensioni.</descrizione>
+		<curiosita>Al nodo piano è riservato un posto di primo piano in tutti i manuali di tecnica italiani, mentre su moltissimi testi stranieri non viene nemmeno più inserito tra i nodi di giunzione, ma lo si relega alla confezione di pacchi, pacchetti e altri usi simili o solo ornamentali. Per le sue caratteristiche esso dovrebbe essere usato solo come nodo di avvolgimento, ossia per fissare una corda ad un oggetto o per stringere un oggetto con una corda. E’ ottimo per finire le legature e per la sua semplicità si presta ad essere insegnato fra i primi nodi a cuccioli e novizi. Come nodo di congiunzione ha per valide alternative il nodo a rete e il nodo del pescatore (semplice o doppio). Dunque: usiamo pure il nodo piano, ma “con giudizio”.</curiosita>
+		<immagine>nodopiano</immagine>
+		<fotogrammi>10</fotogrammi>
+		<categoria>Soccorso</categoria>
+	</nodo>
+    <nodo>
+        <nome>Nodo barcaiolo</nome>
+        <difficolta>media</difficolta>
+        <descrizione>Di facile esecuzione, è però fondamentale saperlo realizzare in qualunque posizione, con una mano sola e con la corda passante nel moschettone.</descrizione>
+        <curiosita>Con la corda nel moschettone, prendere con due dita un capo e, incrociandolo con l'altro capo, formare un'asola da mettere nel moschettone. La corda rimane così bloccata in entrambe le direzioni, si può facilmente regolare per allungare l'uno o l'altro capo ed il nodo può essere sempre facilmente sciolto. </curiosita>
+        <immagine>barcaiolo</immagine>
+        <fotogrammi>7</fotogrammi>
+        <categoria>Alpinismo</categoria>
+    </nodo>
+    <nodo>
+        <nome>Nodo barcaiolo</nome>
+        <difficolta>media</difficolta>
+        <descrizione>Di facile esecuzione, è però fondamentale saperlo realizzare in qualunque posizione, con una mano sola e con la corda passante nel moschettone.</descrizione>
+        <curiosita>Con la corda nel moschettone, prendere con due dita un capo e, incrociandolo con l'altro capo, formare un'asola da mettere nel moschettone. La corda rimane così bloccata in entrambe le direzioni, si può facilmente regolare per allungare l'uno o l'altro capo ed il nodo può essere sempre facilmente sciolto. </curiosita>
+        <immagine>barcaiolo</immagine>
+        <fotogrammi>7</fotogrammi>
+        <categoria>Soccorso</categoria>
+    </nodo>
+    <nodo>
+        <nome>Nodo parlato</nome>
+        <difficolta>media</difficolta>
+        <descrizione>Il nodo parlato è rapidissimo da fare, si usa spesso per assicurare la cima su bitte velocemente. L'ho visto fare una volta da dei pescatori in due secondi: un mezzo collo rovescio in aria gettato sulla bitta e poi subito un secondo collo rovescio gettato sulla bitta come il primo, poi si tira (si assucca). Il punto di forza del parlato è che si può fare con qualsiasi lunghezza di corrente, anche a metà cima, per questo è l'ideale per ormeggiarsi ad una bitta. In montagna il nodo parlato si chiama nodo barcaiolo.</descrizione>
+        <curiosita>I parabordi si legano alla battagliola con un nodo dal nome lunghissimo ma molto facile da fare chiamato volta tonda e due mezzi colli. Si usa spessissimo il nodo parlato allo stesso scopo, ma è sconsigliato il quanto il parlato può sciogliersi.</curiosita>
+        <immagine>parlato</immagine>
+        <fotogrammi>7</fotogrammi>
+        <categoria>Nautica</categoria>
+    </nodo>
+    <nodo>
+        <nome>Imbrago</nome>
+        <difficolta>difficile</difficolta>
+        <descrizione>In caso di emergenza è possibile costruire un imbrago con un pezzo di corda o di fettuccia (5-7 m). Saperlo eseguire può far comodo per tante occasioni, ma in caso di emergenza, sarà il personale di competenza ad effettuare le procedure adeguate.</descrizione>
+        <curiosita>Esistono vari modi per improvvisare un imbrago di emergenza, più o meno sicuri, con le fettuccia o con corda. Il principio è quello di distribuire i carichi il più possibile come in un imbrago.</curiosita>
+        <immagine>imbrago</immagine>
+        <fotogrammi>20</fotogrammi>
+        <categoria>Soccorso</categoria>
+    </nodo>
+    <nodo>
+        <nome>Imbrago</nome>
+        <difficolta>difficile</difficolta>
+        <descrizione>In caso di emergenza è possibile costruire un imbrago con un pezzo di corda o di fettuccia (5-7 m). In montagna possiamo trovarci davanti molti pericoli, uno dei più ricorrenti è il crepaccio; è sempre bene saper seguire questa manovra di emergenza, non solo per la nostra salvezza ma anche per quella dei nostri compagni.</descrizione>
+        <curiosita>Esistono vari modi per improvvisare un imbrago di emergenza, più o meno sicuri, con le fettuccia o con corda. Il principio è quello di distribuire i carichi il più possibile come in un imbrago.</curiosita>
+        <immagine>imbrago</immagine>
+        <fotogrammi>20</fotogrammi>
+        <categoria>Alpinismo</categoria>
+    </nodo>
+    <nodo>
+        <nome>Imbrago</nome>
+        <difficolta>difficile</difficolta>
+        <descrizione>In caso di emergenza è possibile costruire un imbrago con un pezzo di corda o di fettuccia (5-7 m). In montagna possiamo trovarci davanti molti pericoli, uno dei più ricorrenti è il crepaccio; è sempre bene saper seguire questa manovra di emergenza, non solo per la nostra salvezza ma anche per quella dei nostri compagni.</descrizione>
+        <curiosita>Esistono vari modi per improvvisare un imbrago di emergenza, più o meno sicuri, con le fettuccia o con corda. Il principio è quello di distribuire i carichi il più possibile come in un imbrago.</curiosita>
+        <immagine>imbrago</immagine>
+        <fotogrammi>20</fotogrammi>
+        <categoria>Scouting</categoria>
+    </nodo>
+    <nodo>
+        <nome>Nodo di bitta</nome>
+        <difficolta>difficile</difficolta>
+        <descrizione>Nella terminologia nautica con il termine bitta/galloccia si indica uno dei vari dispositivi fissi utilizzati per fermare una cima o una corda o un cavo.</descrizione>
+        <curiosita>Il cavo viene poi solitamente bloccato facendo fare sulle corna un apposito nodo di bitta/galloccia, che viene fatto in due modalità leggermente diverse a seconda se il nodo deve poter essere sciolto velocemente (tipico il caso in cui si usa per fermare le scotte e pertanto in questa versione viene a volte chiamato anche nodo di scotta, anche se questo termine può essere utilizzato ad indicare anche il Nodo a bandiera, visto che quest'ultimo nodo viene utilizzato per prolungare una scotta) oppure se il nodo deve essere più resistente (tipico il caso in cui si usa per fermare le drizze e pertanto in questa versione viene a volte chiamato anche nodo di drizza).</curiosita>
+        <immagine>nodobitta</immagine>
+        <fotogrammi>10</fotogrammi>
+        <categoria>Nautica</categoria>
+    </nodo>
+    <nodo>
+        <nome>Prusik</nome>
+        <difficolta>difficile</difficolta>
+		<descrizione>Il nodo prusik, che appartiene alla categoria dei nodi "autobloccanti" (come il nodo machard), è molto utilizzato soprattutto in campo arrampicatorio e alpinistico. La prerogativa di questa tipologia di nodi è quella di entrare in funzione automaticamente quando siano messi in tensione o sotto carico. Il prusik, in particolare, ha la caratteristica di essere un bloccante "bidirezionale", ossia di svolgere la propria funzione sia che venga sollecitato verso l'alto, sia verso il basso. Viene solitamente utilizzato insieme a uno o più moschettoni a ghiera.</descrizione>
+		<curiosita>Per un suo funzionamento ottimale il nodo prusik dovrebbe essere effettuato con un cordino di diametro notevolmente inferiore rispetto a quello della corda su cui viene eseguito, poiché il principio del suo funzionamento si basa sull'attrito tra cordino e corda: infatti, tanto più simili sono i diametri delle due corde, tanto maggiore risulterà il numero delle spire necessarie a far funzionare correttamente il nodo; ma la gestione, lo scorrimento e lo sbloccaggio di un nodo con un numero eccessivo di spire sono molto più difficoltosi.</curiosita>
+		<immagine>prusik</immagine>
+        <fotogrammi>3</fotogrammi>
+        <categoria>Nautica</categoria>
+    </nodo>
+    <nodo>
+        <nome>Prusik</nome>
+        <difficolta>difficile</difficolta>
+        <descrizione>Il nodo prusik, che appartiene alla categoria dei nodi "autobloccanti" (come il nodo machard), è molto utilizzato soprattutto in campo arrampicatorio e alpinistico. La prerogativa di questa tipologia di nodi è quella di entrare in funzione automaticamente quando siano messi in tensione o sotto carico. Il prusik, in particolare, ha la caratteristica di essere un bloccante "bidirezionale", ossia di svolgere la propria funzione sia che venga sollecitato verso l'alto, sia verso il basso. Viene solitamente utilizzato insieme a uno o più moschettoni a ghiera.</descrizione>
+		<curiosita>Per un suo funzionamento ottimale il nodo prusik dovrebbe essere effettuato con un cordino di diametro notevolmente inferiore rispetto a quello della corda su cui viene eseguito, poiché il principio del suo funzionamento si basa sull'attrito tra cordino e corda: infatti, tanto più simili sono i diametri delle due corde, tanto maggiore risulterà il numero delle spire necessarie a far funzionare correttamente il nodo; ma la gestione, lo scorrimento e lo sbloccaggio di un nodo con un numero eccessivo di spire sono molto più difficoltosi.</curiosita>
+        <immagine>prusik</immagine>
+        <fotogrammi>3</fotogrammi>
+        <categoria>Alpinismo</categoria>
+    </nodo>
+    <nodo>
+        <nome>Nodo Bandiera</nome>
+        <difficolta>difficile</difficolta>
+        <descrizione>Il nodo bandiera è un nodo di giunzione. È usato generalmente per unire due corde di dimensioni uguali o diverse. E' molto usato perché si può eseguire rapidamente. Per rendere meno complessa la memorizzazione vengono usati, in molti manuali, due colori diversi.</descrizione>
+		<curiosita>Questo nodo è chiamato in vari modi: nodo a bandiera, nodo di scotta, nodo del tessitore, nodo della rete, nodo incrociato; inglese: Sheet bend).</curiosita>
+        <immagine>nodobandiera</immagine>
+        <fotogrammi>6</fotogrammi>
+        <categoria>Nautica</categoria>
+    </nodo>
+    <nodo>
+        <nome>Nodo Bandiera</nome>
+        <difficolta>difficile</difficolta>
+        <descrizione>Il nodo bandiera è un nodo di giunzione. È usato generalmente per unire due corde di dimensioni uguali o diverse. E' molto usato perché si può eseguire rapidamente. Per rendere meno complessa la memorizzazione vengono usati, in molti manuali, due colori diversi.</descrizione>
+		<curiosita>Questo nodo è chiamato in vari modi: nodo a bandiera, nodo di scotta, nodo del tessitore, nodo della rete, nodo incrociato; inglese: Sheet bend).</curiosita>
+		<immagine>nodobandiera</immagine>
+        <fotogrammi>6</fotogrammi>
+        <categoria>Soccorso</categoria>
+    </nodo>
+    <nodo>
+        <nome>Nodo Bandiera</nome>
+        <difficolta>difficile</difficolta>
+        <descrizione>Il nodo bandiera è un nodo di giunzione. È usato generalmente per unire due corde di dimensioni uguali o diverse. E' molto usato perché si può eseguire rapidamente. Per rendere meno complessa la memorizzazione vengono usati, in molti manuali, due colori diversi.</descrizione>
+		<curiosita>Questo nodo è chiamato in vari modi: nodo a bandiera, nodo di scotta, nodo del tessitore, nodo della rete, nodo incrociato; inglese: Sheet bend).</curiosita>
+        <immagine>nodobandiera</immagine>
+        <fotogrammi>6</fotogrammi>
+        <categoria>Scouting</categoria>
+    </nodo>
+ </nodi>
